@@ -1,0 +1,8 @@
+# SQL Server files
+*.mdf
+*.ldf
+
+dbt_utils
+
+*.json
+*.xml

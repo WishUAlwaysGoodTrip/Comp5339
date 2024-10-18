@@ -1,0 +1,101 @@
+id,cityname,countryname,regionname
+101,Tokyo,Japan,East Asia
+102,Osaka,Japan,East Asia
+103,Nagoya,Japan,East Asia
+104,Sapporo,Japan,East Asia
+105,Fukuoka,Japan,East Asia
+106,Kobe,Japan,East Asia
+107,Kyoto,Japan,East Asia
+108,Sendai,Japan,East Asia
+109,Hiroshima,Japan,East Asia
+110,Saitama,Japan,East Asia
+111,Chiba,Japan,East Asia
+112,Kitakyushu,Japan,East Asia
+113,Kawasaki,Japan,East Asia
+114,Sagamihara,Japan,East Asia
+115,Okayama,Japan,East Asia
+116,Naha,Japan,East Asia
+117,Adelaide,Australia,Oceania
+118,Brisbane,Australia,Oceania
+119,Canberra,Australia,Oceania
+120,Darwin,Australia,Oceania
+121,Hobart,Australia,Oceania
+122,Melbourne,Australia,Oceania
+123,Perth,Australia,Oceania
+124,Sydney,Australia,Oceania
+125,Seoul,South Korea,East Asia
+126,Busan,South Korea,East Asia
+127,Incheon,South Korea,East Asia
+128,Daegu,South Korea,East Asia
+129,Dalian,China,East Asia
+130,Beijing,China,East Asia
+131,Shanghai,China,East Asia
+132,Shenzhen,China,East Asia
+133,Guangzhou,China,East Asia
+134,Chengdu,China,East Asia
+135,Wuhan,China,East Asia
+136,Chongqing,China,East Asia
+137,Tianjin,China,East Asia
+138,Hong Kong,Hong Kong,East Asia
+139,Taipei,Taiwan,East Asia
+140,Kaohsiung,Taiwan,East Asia
+141,Bangkok,Thailand,Southeast Asia
+142,Jakarta,Indonesia,Southeast Asia
+143,Kuala Lumpur,Malaysia,Southeast Asia
+144,Manila,Philippines,Southeast Asia
+145,Hanoi,Vietnam,Southeast Asia
+146,Ho Chi Minh City,Vietnam,Southeast Asia
+147,Singapore,Singapore,Southeast Asia
+148,Mumbai,India,South Asia
+149,Delhi,India,South Asia
+150,Bangalore,India,South Asia
+151,Hyderabad,India,South Asia
+152,Kolkata,India,South Asia
+153,Chennai,India,South Asia
+154,Ahmedabad,India,South Asia
+155,Pune,India,South Asia
+156,Surat,India,South Asia
+157,Karachi,Pakistan,South Asia
+158,Lahore,Pakistan,South Asia
+159,Islamabad,Pakistan,South Asia
+160,Dhaka,Bangladesh,South Asia
+161,Yangon,Myanmar,Southeast Asia
+162,Kathmandu,Nepal,South Asia
+163,Colombo,Sri Lanka,South Asia
+164,Phnom Penh,Cambodia,Southeast Asia
+165,Vientiane,Laos,Southeast Asia
+166,Ulaanbaatar,Mongolia,East Asia
+67,Glasgow,UK,Western Europe
+68,Yaroslave,Russia,Eastern Europe
+69,Khabarovsk,Russia,Eastern Europe
+70,Vladivostok,Russia,Eastern Europe
+71,Zaragoza,Spain,Southern Europe
+72,Essen,Germany,Central Europe
+73,Rotterdam,Netherlands,Western Europe
+74,Irkutsk,Russia,Eastern Europe
+75,Dortmund,Germany,Central Europe
+76,Stuttgart,Germany,Central Europe
+77,Barnaul,Russia,Eastern Europe
+78,Vilnius,Lithuania,Northern Europe
+79,Poznan,Poland,Central Europe
+80,Düsseldorf,Germany,Central Europe
+81,Novokuznetsk,Russia,Eastern Europe
+82,Lisboa (Lisbon),Portugal,Southern Europe
+83,Helsinki,Finland,Northern Europe
+84,Málaga,Spain,Southern Europe
+85,Bremen,Germany,Central Europe
+86,Sheffield,UK,Western Europe
+87,Sarajevo,Bosnia,Eastern Europe
+88,Penza,Russia,Eastern Europe
+89,Ryazan,Russia,Eastern Europe
+90,Orenburg,Russia,Eastern Europe
+91,Naberezhnye Tchelny,Russia,Eastern Europe
+92,Duisburg,Germany,Central Europe
+93,Lipetsk,Russia,Eastern Europe
+94,Hannover,Germany,Central Europe
+95,Mykolaiv ,Ukraine,Eastern Europe
+96,Tula,Russia,Eastern Europe
+97,Oslo,Norway,Northern Europe
+98,Tyumen,Russia,Eastern Europe
+99,Kobenhavn (Copenhagen),Denmark,Northern Europe
+100,Kemerovo,Russia,Eastern Europe
